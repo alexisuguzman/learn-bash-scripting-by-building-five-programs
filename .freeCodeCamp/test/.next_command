@@ -211,3 +211,4 @@ help
 type
 help type
 type echo
+type read
