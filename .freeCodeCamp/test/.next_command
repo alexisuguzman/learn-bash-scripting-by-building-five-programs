@@ -208,3 +208,5 @@ chmod +x five.sh
 clear
 ./five.sh
 help
+type
+help type
